@@ -10,7 +10,6 @@ Version:        1.0
 
 @import url("../campaignify/style.css");
 
-}
 .site-header {
 	background: #242829;
 }
@@ -271,6 +270,6 @@ body {
 	margin-right: 44px;
 }
 
-#widget_campaignify_campaign_backers-2 .campaign-backers-name {
+,widget_campaignify_campaign_backers .campaign-backers-name {
 	color: #adadad;
 }
