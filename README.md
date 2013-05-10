@@ -1,3 +1,3 @@
 Campaignify Dark Child Theme
 ================
-A dark styled child theme for the Campaignify theme.
+A dark style child theme for the Campaignify theme.
