@@ -10,10 +10,6 @@ Version:        1.0
 
 @import url("../campaignify/style.css");
 
-.site-header {
-	background: #242829;
-}
-
 .site-footer {
 	color: #adadad;
 	margin-top: 100px;
@@ -51,7 +47,6 @@ Version:        1.0
 
 .nav-menu-primary .sub-menu,
 .nav-menu-primary .children {
-	background-color: #242829;
 	display: none;
 	float: left;
 	padding: 20px 0;
@@ -265,11 +260,20 @@ body {
 	padding: 25px 15px;
 	width: 153px!important;
 	height: auto!important;
-	background: #242829;
 	float: left;
 	margin-right: 44px;
 }
 
-,widget_campaignify_campaign_backers .campaign-backers-name {
+.widget_campaignify_campaign_backers .campaign-backers-name {
 	color: #adadad;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="search"],
+input[type="password"],
+input[type="number"],
+textarea {
+	color: #adadad;
+	background: #0D0D0E;
 }
