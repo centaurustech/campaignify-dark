@@ -277,3 +277,12 @@ textarea {
 	color: #adadad;
 	background: #0D0D0E;
 }
+
+.modal input[type="text"],
+.modal input[type="email"],
+.modal input[type="search"],
+.modal input[type="password"],
+.modal input[type="number"],
+.modal textarea {
+	background: #ebebeb;
+}
