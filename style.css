@@ -286,3 +286,16 @@ textarea {
 .modal textarea {
 	background: #ebebeb;
 }
+
+.blog-widget #searchform input[type="text"] {
+background: #0D0D0E;
+padding: 15px;
+border-radius: 2px;
+}
+
+.footer-widget input[type="text"], .footer-widget input[type="search"], .footer-widget input[type="email"] {
+color: #6e6e6e;
+padding: 15px;
+background: #0D0D0E;
+border-radius: 2px;
+}
