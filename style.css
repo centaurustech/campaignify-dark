@@ -264,7 +264,7 @@ body {
 	margin-right: 44px;
 }
 
-.widget_campaignify_campaign_backers .campaign-backers-name {
+.widget_campaignify_campaign_backers-2 .campaign-backers-name {
 	color: #adadad;
 }
 
@@ -290,4 +290,19 @@ textarea {
 .edd_errors {
 	border: 0; 
 	background: #FCFADC; 
+}
+
+.blog-widget #searchform input[type="text"] {
+	background: #0D0D0E;
+	padding: 15px;
+	border-radius: 2px;
+}
+
+.footer-widget input[type="text"], 
+.footer-widget input[type="search"], 
+.footer-widget input[type="email"] {
+	color: #6e6e6e;
+	padding: 15px;
+	background: #0D0D0E;
+	border-radius: 2px;
 }
