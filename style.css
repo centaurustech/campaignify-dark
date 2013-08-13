@@ -286,3 +286,8 @@ textarea {
 .modal textarea {
 	background: #ebebeb;
 }
+
+.edd_errors {
+	border: 0; 
+	background: #FCFADC; 
+}
